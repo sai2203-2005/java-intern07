@@ -17,8 +17,8 @@ A Java application developed as part of the Java Internship program. This progra
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/sivasekhar-939/java-internship07.git
-   cd java-internship07
+   git clone https://github.com/sai2203-2005/java-intern07.git
+   cd java-intern07
    ```
 
 2. **Compile the Java file**:
